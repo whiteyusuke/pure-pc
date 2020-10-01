@@ -1,0 +1,21 @@
+[
+	{
+		"id": "1",
+		"value": "出張型",
+		"category": [
+			{"recommend": 0,"value": "店舗型"},
+			{"recommend": 1,"value": "無店舗型"},
+			{"recommend": 1,"value": "飲食店"},
+			{"recommend": 1,"value": "エステ"},
+			{"recommend": 0,"value": "ナイト系その他"}
+		]
+	},
+	{
+		"id": "2",
+		"value": "店舗型",
+		"category": [
+			{"recommend": 0,"value": "セクキャバ･キャバクラ･ガールズバー"},
+			{"recommend": 1,"value": "パブ/ニュークラブ"}
+		]
+	}
+]

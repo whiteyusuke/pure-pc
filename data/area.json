@@ -1,0 +1,1469 @@
+[
+  {
+    "order": 1,
+    "left": 1,
+    "id": "hokkaido-tohoku",
+    "value": "北海道・東北",
+    "prefecture": [
+      {
+        "id": "hokkaido",
+        "value": "北海道",
+        "value2": "北海道",
+        "order": 1,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "札幌・すすきの"
+          },
+          {
+            "order": 2,
+            "value": "苫小牧・千歳"
+          },
+          {
+            "order": 3,
+            "value": "旭川"
+          },
+          {
+            "order": 4,
+            "value": "函館"
+          },
+          {
+            "order": 5,
+            "value": "帯広"
+          },
+          {
+            "order": 6,
+            "value": "釧路・中標津"
+          },
+          {
+            "order": 7,
+            "value": "北見"
+          },
+          {
+            "order": 8,
+            "value": "北海道その他"
+          }
+        ]
+      },
+      {
+        "id": "miyagi",
+        "value": "宮城県",
+        "value2": "宮城",
+        "order": 2,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "仙台"
+          },
+          {
+            "order": 2,
+            "value": "仙南"
+          },
+          {
+            "order": 3,
+            "value": "大崎・古川"
+          },
+          {
+            "order": 4,
+            "value": "その他宮城県"
+          }
+        ]
+      },
+      {
+        "id": "iwate",
+        "value": "岩手県",
+        "value2": "岩手",
+        "order": 3,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "盛岡"
+          },
+          {
+            "order": 2,
+            "value": "北上"
+          },
+          {
+            "order": 3,
+            "value": "その他岩手県"
+          }
+        ]
+      },
+      {
+        "id": "fukushima",
+        "value": "福島県",
+        "value2": "福島",
+        "order": 4,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "福島市"
+          },
+          {
+            "order": 2,
+            "value": "郡山"
+          },
+          {
+            "order": 3,
+            "value": "いわき・小名浜"
+          },
+          {
+            "order": 4,
+            "value": "その他福島県"
+          }
+        ]
+      },
+      {
+        "id": "aomori",
+        "value": "青森県",
+        "value2": "青森",
+        "order": 5,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "青森市・弘前"
+          },
+          {
+            "order": 2,
+            "value": "その他青森県"
+          }
+        ]
+      },
+      {
+        "id": "akita",
+        "value": "秋田県",
+        "value2": "秋田",
+        "order": 6,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "秋田市・川反"
+          },
+          {
+            "order": 2,
+            "value": "その他秋田県"
+          }
+        ]
+      },
+      {
+        "id": "yamagata",
+        "value": "山形県",
+        "value2": "山形",
+        "order": 7,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "山形市"
+          },
+          {
+            "order": 2,
+            "value": "その他山形県"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "right": 1,
+    "id": "kanto",
+    "value": "関東",
+    "prefecture": [
+      {
+        "id": "tokyo",
+        "value": "東京都",
+        "value2": "東京",
+        "order": 1,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "渋谷"
+          },
+          {
+            "order": 2,
+            "value": "恵比寿・六本木・赤坂・青山"
+          },
+          {
+            "order": 3,
+            "value": "新宿・歌舞伎町"
+          },
+          {
+            "order": 4,
+            "value": "池袋"
+          },
+          {
+            "order": 5,
+            "value": "大久保・新大久保・高田馬場"
+          },
+          {
+            "order": 6,
+            "value": "五反田"
+          },
+          {
+            "order": 7,
+            "value": "品川"
+          },
+          {
+            "order": 8,
+            "value": "新橋・銀座・汐留"
+          },
+          {
+            "order": 9,
+            "value": "大森・蒲田・大井町"
+          },
+          {
+            "order": 10,
+            "value": "大塚"
+          },
+          {
+            "order": 11,
+            "value": "日暮里・西日暮里・町屋"
+          },
+          {
+            "order": 12,
+            "value": "巣鴨・駒込・赤羽"
+          },
+          {
+            "order": 13,
+            "value": "上野・御徒町"
+          },
+          {
+            "order": 14,
+            "value": "鶯谷"
+          },
+          {
+            "order": 15,
+            "value": "秋葉原・神田"
+          },
+          {
+            "order": 16,
+            "value": "吉原"
+          },
+          {
+            "order": 17,
+            "value": "錦糸町"
+          },
+          {
+            "order": 18,
+            "value": "小岩・新小岩・葛西"
+          },
+          {
+            "order": 19,
+            "value": "吉祥寺・国分寺・府中・調布"
+          },
+          {
+            "order": 20,
+            "value": "立川・八王子・福生"
+          },
+          {
+            "order": 21,
+            "value": "町田"
+          },
+          {
+            "deriheru": 1,
+            "value": "池袋デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "渋谷デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "五反田デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "品川デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "鶯谷デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "上野デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "新橋デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "錦糸町デリヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "渋谷ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "新宿・歌舞伎町ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "大久保・新大久保・高田馬場ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "池袋ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "五反田ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "新橋・銀座・汐留ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "日暮里・西日暮里・町屋ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "上野・御徒町ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "鶯谷ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "秋葉原・神田ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "錦糸町ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "小岩・新小岩・葛西ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "立川・八王子・福生ホテヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "町田ホテヘル"
+          },
+          {
+            "health": 1,
+            "value": "池袋ヘルス"
+          },
+          {
+            "health": 1,
+            "value": "新宿ヘルス"
+          },
+          {
+            "health": 1,
+            "value": "渋谷ヘルス"
+          },
+          {
+            "health": 1,
+            "value": "新橋ヘルス"
+          },
+          {
+            "soap": 1,
+            "value": "池袋ソープ"
+          },
+          {
+            "soap": 1,
+            "value": "吉原ソープ"
+          },
+          {
+            "soap": 1,
+            "value": "五反田ソープ"
+          }
+        ]
+      },
+      {
+        "id": "kanagawa",
+        "value": "神奈川県",
+        "value2": "神奈川",
+        "order": 2,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "横浜・関内・曙町"
+          },
+          {
+            "order": 2,
+            "value": "新横浜"
+          },
+          {
+            "order": 3,
+            "value": "川崎・南町・堀之内・武蔵小杉・鶴見"
+          },
+          {
+            "order": 4,
+            "value": "平塚・小田原・藤沢"
+          },
+          {
+            "order": 5,
+            "value": "本厚木・大和"
+          },
+          {
+            "deriheru": 1,
+            "value": "横浜デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "新横浜デリヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "横浜・関内・曙町ホテヘル"
+          },
+          {
+            "health": 1,
+            "value": "横浜ヘルス"
+          },
+          {
+            "health": 1,
+            "value": "関内ヘルス"
+          },
+          {
+            "health": 1,
+            "value": "川崎ヘルス"
+          },
+          {
+            "soap": 1,
+            "value": "横浜ソープ"
+          },
+          {
+            "soap": 1,
+            "value": "関内ソープ"
+          },
+          {
+            "soap": 1,
+            "value": "川崎ソープ"
+          }
+        ]
+      },
+      {
+        "id": "saitama",
+        "value": "埼玉県",
+        "value2": "埼玉",
+        "order": 3,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "西川口・蕨・浦和"
+          },
+          {
+            "order": 2,
+            "value": "大宮"
+          },
+          {
+            "order": 3,
+            "value": "熊谷"
+          },
+          {
+            "order": 4,
+            "value": "越谷・草加"
+          },
+          {
+            "order": 5,
+            "value": "本庄"
+          },
+          {
+            "deriheru": 1,
+            "value": "西川口デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "大宮デリヘル"
+          },
+          {
+            "health": 1,
+            "value": "西川口ヘルス"
+          },
+          {
+            "soap": 1,
+            "value": "西川口ソープ"
+          },
+          {
+            "soap": 1,
+            "value": "大宮ソープ"
+          }
+        ]
+      },
+      {
+        "id": "chiba",
+        "value": "千葉県",
+        "value2": "千葉",
+        "order": 4,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "栄町"
+          },
+          {
+            "order": 2,
+            "value": "船橋・西船橋・津田沼"
+          },
+          {
+            "order": 3,
+            "value": "松戸・新松戸・柏"
+          },
+          {
+            "deriheru": 1,
+            "value": "船橋デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "柏デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "松戸デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "栄町デリヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "船橋・西船橋・津田沼ホテヘル"
+          },
+          {
+            "health": 1,
+            "value": "栄町ヘルス"
+          },
+          {
+            "soap": 1,
+            "value": "栄町ソープ"
+          }
+        ]
+      },
+      {
+        "id": "ibaraki",
+        "value": "茨城県",
+        "value2": "茨城",
+        "order": 5,
+        "flag": 0,
+        "city": [
+          {
+            "order": 1,
+            "value": "土浦・つくば"
+          },
+          {
+            "order": 2,
+            "value": "水戸・日立・ひたちなか"
+          },
+          {
+            "deriheru": 1,
+            "value": "水戸デリヘル"
+          },
+          {
+            "health": 1,
+            "value": "水戸・天王町ヘルス"
+          },
+          {
+            "health": 1,
+            "value": "土浦ヘルス"
+          },
+          {
+            "soap": 1,
+            "value": "水戸・天王町ソープ"
+          },
+          {
+            "soap": 1,
+            "value": "土浦ソープ"
+          }
+        ]
+      },
+      {
+        "id": "tochigi",
+        "value": "栃木県",
+        "value2": "栃木",
+        "order": 6,
+        "flag": 0,
+        "city": [
+          {
+            "order": 1,
+            "value": "宇都宮"
+          },
+          {
+            "order": 2,
+            "value": "小山"
+          },
+          {
+            "order": 3,
+            "value": "那須塩原"
+          },
+          {
+            "deriheru": 1,
+            "value": "宇都宮デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "小山デリヘル"
+          },
+          {
+            "hoteheru": 1,
+            "value": "宇都宮ホテヘル"
+          },
+          {
+            "soap": 1,
+            "value": "宇都宮ソープ"
+          }
+        ]
+      },
+      {
+        "id": "gunma",
+        "value": "群馬県",
+        "value2": "群馬",
+        "order": 7,
+        "flag": 0,
+        "city": [
+          {
+            "order": 1,
+            "value": "高崎・前橋・藤岡・安中・渋川"
+          },
+          {
+            "order": 2,
+            "value": "伊勢崎・桐生"
+          },
+          {
+            "order": 3,
+            "value": "太田・館林"
+          },
+          {
+            "deriheru": 1,
+            "value": "太田デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "前橋デリヘル"
+          },
+          {
+            "deriheru": 1,
+            "value": "高崎デリヘル"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 3,
+    "right": 1,
+    "id": "hokuriku",
+    "value": "北陸",
+    "prefecture": [
+      {
+        "id": "ishikawa",
+        "value": "石川県",
+        "value2": "石川",
+        "order": 1,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "金沢"
+          },
+          {
+            "order": 2,
+            "value": "小松・加賀"
+          },
+          {
+            "order": 3,
+            "value": "その他石川県"
+          }
+        ]
+      },
+      {
+        "id": "toyama",
+        "value": "富山県",
+        "value2": "富山",
+        "order": 2,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "富山市"
+          },
+          {
+            "order": 2,
+            "value": "その他富山県"
+          }
+        ]
+      },
+      {
+        "id": "hukui",
+        "value": "福井県",
+        "value2": "福井",
+        "order": 3,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "福井市"
+          },
+          {
+            "order": 2,
+            "value": "その他福井県"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 4,
+    "left": 1,
+    "id": "koshinetsu",
+    "value": "甲信越",
+    "prefecture": [
+      {
+        "id": "niigata",
+        "value": "新潟県",
+        "value2": "新潟",
+        "order": 1,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "新潟市"
+          },
+          {
+            "order": 2,
+            "value": "長岡"
+          },
+          {
+            "order": 3,
+            "value": "三条"
+          },
+          {
+            "order": 4,
+            "value": "上越・柏崎"
+          },
+          {
+            "order": 5,
+            "value": "その他新潟県"
+          }
+        ]
+      },
+      {
+        "id": "nagano",
+        "value": "長野県",
+        "value2": "長野",
+        "order": 2,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "長野市"
+          },
+          {
+            "order": 2,
+            "value": "上田"
+          },
+          {
+            "order": 3,
+            "value": "松本・塩尻"
+          },
+          {
+            "order": 4,
+            "value": "諏訪・伊那"
+          },
+          {
+            "order": 5,
+            "value": "その他長野県"
+          }
+        ]
+      },
+      {
+        "id": "yamanashi",
+        "value": "山梨県",
+        "value2": "山梨",
+        "order": 3,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "甲府"
+          },
+          {
+            "order": 2,
+            "value": "その他山梨県"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 5,
+    "left": 1,
+    "id": "tokai",
+    "value": "東海",
+    "prefecture": [
+      {
+        "id": "aichi",
+        "value": "愛知県",
+        "value2": "愛知",
+        "order": 1,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "名古屋"
+          },
+          {
+            "order": 2,
+            "value": "名駅・中村・納谷橋"
+          },
+          {
+            "order": 3,
+            "value": "錦・丸ノ内・栄"
+          },
+          {
+            "order": 4,
+            "value": "新栄・東新町・千種・池下"
+          },
+          {
+            "order": 5,
+            "value": "金山・柴田"
+          },
+          {
+            "order": 6,
+            "value": "名古屋市その他"
+          },
+          {
+            "order": 7,
+            "value": "岡崎"
+          },
+          {
+            "order": 8,
+            "value": "豊田"
+          },
+          {
+            "order": 9,
+            "value": "安城"
+          },
+          {
+            "order": 10,
+            "value": "刈谷・知立"
+          },
+          {
+            "order": 11,
+            "value": "豊橋・豊川"
+          },
+          {
+            "order": 12,
+            "value": "一宮"
+          },
+          {
+            "order": 13,
+            "value": "その他愛知県"
+          }
+        ]
+      },
+      {
+        "id": "gihu",
+        "value": "岐阜県",
+        "value2": "岐阜",
+        "order": 2,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "岐阜市"
+          },
+          {
+            "order": 2,
+            "value": "金津園"
+          },
+          {
+            "order": 3,
+            "value": "大垣"
+          },
+          {
+            "order": 4,
+            "value": "その他岐阜県"
+          }
+        ]
+      },
+      {
+        "id": "shizuoka",
+        "value": "静岡県",
+        "value2": "静岡",
+        "order": 3,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "浜松"
+          },
+          {
+            "order": 2,
+            "value": "静岡市"
+          },
+          {
+            "order": 3,
+            "value": "沼津・三島"
+          },
+          {
+            "order": 4,
+            "value": "その他静岡県"
+          }
+        ]
+      },
+      {
+        "id": "mie",
+        "value": "三重県",
+        "value2": "三重",
+        "order": 4,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "四日市・鈴鹿・桑名"
+          },
+          {
+            "order": 2,
+            "value": "津・松阪"
+          },
+          {
+            "order": 3,
+            "value": "その他三重県"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 6,
+    "right": 1,
+    "id": "kansai",
+    "value": "関西",
+    "prefecture": [
+      {
+        "id": "osaka",
+        "value": "大阪府",
+        "value2": "大阪",
+        "order": 1,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "梅田"
+          },
+          {
+            "order": 2,
+            "value": "難波・心斎橋"
+          },
+          {
+            "order": 3,
+            "value": "新大阪・西中島"
+          },
+          {
+            "order": 4,
+            "value": "京橋"
+          },
+          {
+            "order": 5,
+            "value": "日本橋"
+          },
+          {
+            "order": 6,
+            "value": "谷町九丁目・天王寺"
+          },
+          {
+            "order": 7,
+            "value": "十三・塚本"
+          },
+          {
+            "order": 8,
+            "value": "大阪市その他"
+          },
+          {
+            "order": 9,
+            "value": "堺"
+          },
+          {
+            "order": 10,
+            "value": "その他大阪府"
+          }
+        ]
+      },
+      {
+        "id": "hyogo",
+        "value": "兵庫県",
+        "value2": "兵庫",
+        "order": 2,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "神戸・三宮"
+          },
+          {
+            "order": 2,
+            "value": "福原"
+          },
+          {
+            "order": 3,
+            "value": "姫路・明石"
+          },
+          {
+            "order": 4,
+            "value": "尼崎"
+          },
+          {
+            "order": 5,
+            "value": "その他兵庫県"
+          }
+        ]
+      },
+      {
+        "id": "kyoto",
+        "value": "京都府",
+        "value2": "京都",
+        "order": 3,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "祇園・河原町"
+          },
+          {
+            "order": 2,
+            "value": "京都市"
+          },
+          {
+            "order": 3,
+            "value": "伏見・南インター"
+          },
+          {
+            "order": 4,
+            "value": "その他京都府"
+          }
+        ]
+      },
+      {
+        "id": "shiga",
+        "value": "滋賀県",
+        "value2": "滋賀",
+        "order": 4,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "大津"
+          },
+          {
+            "order": 2,
+            "value": "雄琴"
+          },
+          {
+            "order": 3,
+            "value": "草津・栗東・守山"
+          },
+          {
+            "order": 4,
+            "value": "彦根・長浜"
+          },
+          {
+            "order": 5,
+            "value": "その他滋賀県"
+          }
+        ]
+      },
+      {
+        "id": "nara",
+        "value": "奈良県",
+        "value2": "奈良",
+        "order": 5,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "奈良市"
+          },
+          {
+            "order": 2,
+            "value": "その他奈良県"
+          }
+        ]
+      },
+      {
+        "id": "wakayama",
+        "value": "和歌山県",
+        "value2": "和歌山",
+        "order": 6,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "和歌山市"
+          },
+          {
+            "order": 2,
+            "value": "その他和歌山県"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 7,
+    "left": 1,
+    "id": "chugoku-shikoku",
+    "value": "中国・四国",
+    "prefecture": [
+      {
+        "id": "hiroshima",
+        "value": "広島県",
+        "value2": "広島",
+        "order": 1,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "広島市"
+          },
+          {
+            "order": 2,
+            "value": "呉・東広島"
+          },
+          {
+            "order": 3,
+            "value": "福山"
+          },
+          {
+            "order": 4,
+            "value": "その他広島県"
+          }
+        ]
+      },
+      {
+        "id": "okayama",
+        "value": "岡山県",
+        "value2": "岡山",
+        "order": 2,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "岡山市"
+          },
+          {
+            "order": 2,
+            "value": "倉敷"
+          },
+          {
+            "order": 3,
+            "value": "その他岡山県"
+          }
+        ]
+      },
+      {
+        "id": "yamaguchi",
+        "value": "山口県",
+        "value2": "山口",
+        "order": 3,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "山口・宇部"
+          },
+          {
+            "order": 2,
+            "value": "下関"
+          },
+          {
+            "order": 3,
+            "value": "周南"
+          },
+          {
+            "order": 4,
+            "value": "その他山口県"
+          }
+        ]
+      },
+      {
+        "id": "tottori",
+        "value": "鳥取県",
+        "value2": "鳥取",
+        "order": 4,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "鳥取市"
+          },
+          {
+            "order": 2,
+            "value": "その他鳥取県"
+          }
+        ]
+      },
+      {
+        "id": "shimane",
+        "value": "島根県",
+        "value2": "島根",
+        "order": 5,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "松江"
+          },
+          {
+            "order": 2,
+            "value": "その他島根県"
+          }
+        ]
+      },
+      {
+        "id": "kagawa",
+        "value": "香川県",
+        "value2": "香川",
+        "order": 6,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "高松"
+          },
+          {
+            "order": 2,
+            "value": "丸亀・善通寺・琴平"
+          },
+          {
+            "order": 3,
+            "value": "その他香川県"
+          }
+        ]
+      },
+      {
+        "id": "ehime",
+        "value": "愛媛県",
+        "value2": "愛媛",
+        "order": 7,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "松山・道後"
+          },
+          {
+            "order": 2,
+            "value": "その他愛媛県"
+          }
+        ]
+      },
+      {
+        "id": "kochi",
+        "value": "高知県",
+        "value2": "高知",
+        "order": 8,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "高知市"
+          },
+          {
+            "order": 2,
+            "value": "その他高知県"
+          }
+        ]
+      },
+      {
+        "id": "tokushima",
+        "value": "徳島県",
+        "value2": "徳島",
+        "order": 9,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "徳島市"
+          },
+          {
+            "order": 2,
+            "value": "その他徳島県"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "order": 8,
+    "right": 1,
+    "id": "kyushu-okinawa",
+    "value": "九州・沖縄",
+    "prefecture": [
+      {
+        "id": "fukuoka",
+        "value": "福岡県",
+        "value2": "福岡",
+        "order": 1,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "中洲"
+          },
+          {
+            "order": 2,
+            "value": "博多"
+          },
+          {
+            "order": 3,
+            "value": "北九州・小倉"
+          },
+          {
+            "order": 4,
+            "value": "久留米"
+          },
+          {
+            "order": 11,
+            "value": "その他福岡県"
+          }
+        ]
+      },
+      {
+        "id": "saga",
+        "value": "佐賀県",
+        "value2": "佐賀",
+        "order": 2,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "佐賀市"
+          },
+          {
+            "order": 2,
+            "value": "武雄・嬉野"
+          },
+          {
+            "order": 3,
+            "value": "その他佐賀県"
+          }
+        ]
+      },
+      {
+        "id": "nagasaki",
+        "value": "長崎県",
+        "value2": "長崎",
+        "order": 3,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "長崎市"
+          },
+          {
+            "order": 2,
+            "value": "その他長崎県"
+          }
+        ]
+      },
+      {
+        "id": "oita",
+        "value": "大分県",
+        "value2": "大分",
+        "order": 4,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "大分市"
+          },
+          {
+            "order": 2,
+            "value": "別府"
+          },
+          {
+            "order": 7,
+            "value": "その他大分県"
+          }
+        ]
+      },
+      {
+        "id": "kumamoto",
+        "value": "熊本県",
+        "value2": "熊本",
+        "order": 5,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "熊本市"
+          },
+          {
+            "order": 2,
+            "value": "その他熊本県"
+          }
+        ]
+      },
+      {
+        "id": "miyazaki",
+        "value": "宮崎県",
+        "value2": "宮崎",
+        "order": 6,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "宮崎市"
+          },
+          {
+            "order": 2,
+            "value": "その他宮崎県"
+          }
+        ]
+      },
+      {
+        "id": "kagoshima",
+        "value": "鹿児島県",
+        "value2": "鹿児島",
+        "order": 7,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "鹿児島市"
+          },
+          {
+            "order": 2,
+            "value": "その他鹿児島県"
+          }
+        ]
+      },
+      {
+        "id": "okinawa",
+        "value": "沖縄県",
+        "value2": "沖縄",
+        "order": 8,
+        "flag": 1,
+        "city": [
+          {
+            "order": 1,
+            "value": "那覇"
+          },
+          {
+            "order": 2,
+            "value": "その他沖縄県"
+          }
+        ]
+      }
+    ]
+  }
+]
