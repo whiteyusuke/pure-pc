@@ -50,10 +50,7 @@
               <img v-lazy="require('~/assets/images/pure-logo.png')" width="164" height="63" alt="風俗情報ぴゅあらば" />
             </picture>
           </a>
-          <h1>
-            関東の
-            <br />風俗店情報
-          </h1>
+          <h1>関東の<br />風俗店情報</h1>
         </div>
         <div class="variety-wrapper">
           <p class="ban-icon">
@@ -62,9 +59,7 @@
               <img v-lazy="require('~/assets/images/ban.png')" width="36" height="34" alt="18未満禁止" />
             </picture>
           </p>
-          <p class="ban-text">
-            18歳未満の御利用は
-            <br />固くお断りいたします。
+          <p class="ban-text">18歳未満の御利用は<br />固くお断りいたします。
           </p>
           <form>
             <input type="text" placeholder="フリーワード検索" />

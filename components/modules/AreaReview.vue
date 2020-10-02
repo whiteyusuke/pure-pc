@@ -34,10 +34,7 @@
                     </div>
                     <p class="number">3.75</p>
                   </div>
-                  <time>
-                    6/31(月)23:00
-                    <span>UP</span>
-                  </time>
+                  <time>6/31(月)23:00<span>UP</span></time>
                 </div>
                 <div class="title">
                   <h3>とても分かりやすく、初めてでもグッド!!</h3>

@@ -102,4 +102,10 @@ export default {
   color: theme("colors.primary");
   z-index: theme("zIndex.1000");
 }
+/*! purgecss start ignore */
+.testishii {
+  font-size: 20px;
+  color: red;
+}
+/*! purgecss end ignore */
 </style>
